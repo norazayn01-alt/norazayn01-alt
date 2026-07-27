@@ -46,7 +46,7 @@
   <a href="https://t.me/@shahzoda_kidirova" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://instagram.com/im__shion" target="_blank">
+  <a href="https://instagram.com/im___shion" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
