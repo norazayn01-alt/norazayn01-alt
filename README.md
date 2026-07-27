@@ -6,17 +6,9 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-## 📊 GitHub Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=norazayn01-alt&show_icons=true&theme=radium" alt="GitHub Stats" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=norazayn01-alt&show_icons=true&theme=radium)
 
-<br/><br/>
-
-<!-- Streak (aktivlik kunlari) kartochkasi -->
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img align="center" src="https://streak-stats.demolab.com/?user=norazayn01-alt&theme=radium" alt="GitHub Streak" />
-</a>
+![GitHub Streak](https://streak-stats.demolab.com/?user=norazayn01-alt&theme=radium)
 
 <!--
 **norazayn01-alt/norazayn01-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
