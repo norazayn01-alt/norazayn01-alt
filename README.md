@@ -1,12 +1,5 @@
 ![](https://github.com/norazayn01-alt/gifshion/blob/main/gif-shahzodakidirova.gif)
 
-
-<p align="center">
-  <a href="https://github.com/norazayn01-alt">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=React+%26+Next.js+Developer;Python+%26+FastAPI+Learner;Linux+%26+Web+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
-
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
