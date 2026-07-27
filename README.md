@@ -7,131 +7,41 @@
   </a>
 </p>
 
----
+### Languages
 
-### 🛠️ Tech Stack & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 
-**Languages:**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+### Technologies & Frameworks
 
-**Frontend Frameworks & UI:**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind-CSS)
+![Mantine](https://img.shields.io/badge/-Mantine-000?&logo=Mantine)
+![TanStack Query](https://img.shields.io/badge/-TanStack_Query-000?&logo=React-Query)
+![Zustand](https://img.shields.io/badge/-Zustand-000?&logo=React)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
-**Backend & Environment:**
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### Connect with me
 
-### 📫 Connect with me
-<p align="left">
-  <a href="https://github.com/norazayn01-alt" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/shahzoda-kidirova" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/@shahzoda_kidirova" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://instagram.com/im___shion" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+[![](https://img.shields.io/badge/-🐙%20GitHub-000)](https://github.com/norazayn01-alt)
+[![](https://img.shields.io/badge/-💼%20LinkedIn-000)](https://linkedin.com/in/shahzoda-kidirova)
+[![](https://img.shields.io/badge/-✈️%20Telegram-000)](https://t.me/shahzoda_kidirova)
+[![](https://img.shields.io/badge/-📸%20Instagram-000)](https://instagram.com/im___shion)
 
-### ☕ Support / Qo'llab-quvvatlash
+### ☕ Support
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Card-4916990313429760?style=for-the-badge&logo=uzum&logoColor=white" alt="Card number" />
-</p>
-
-
-<h1 align="center">Hi 👋, I'm Norazayn</h1>
-<h3 align="center">Frontend & Web Developer</h3>
-
-<p align="center">
-  <a href="https://github.com/norazayn01-alt">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=React+%26+Next.js+Developer;Python+%26+FastAPI+Learner;Linux+%26+Web+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
+[![](https://img.shields.io/badge/-💳%20Card:%204916%209903%201342%209760-000)](#)
 
 ---
 
-## 🧑‍💻 About Me:
-
-- 🔭 **I’m currently working on** E-commerce and modern web application projects using React & Next.js
-- 👯 **I’m looking to collaborate on** Open-source Frontend projects and UI design implementations
-- 🤝 **I’m looking for help with** Advanced State Management patterns and Performance Optimization
-- 🌱 **I’m currently learning** Next.js, TanStack Query, and Backend integration with FastAPI
-- 💬 **Ask me about** React, JavaScript, TypeScript, Tailwind CSS, Mantine UI
-- ⚡ **Fun fact** I turn caffeine and Figma designs into pixel-perfect responsive web pages!
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages:**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-**Frontend Frameworks & UI:**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
-</p>
-
-**Backend & Environment:**
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📫 Connect with me:
-
-<p align="left">
-  <a href="https://github.com/norazayn01-alt" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/shahzoda-kidirova" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/shahzoda_kidirova" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://instagram.com/im___shion" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
----
-
-### ☕ Support / Qo'llab-quvvatlash:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Uzcard%20%2F%20Humo-4916990313429760?style=for-the-badge&logo=visa&logoColor=white" alt="Card number" />
-</p>
+<a href="https://github.com/norazayn01-alt">
+  <img height="137px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=norazayn01-alt&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=norazayn01-alt&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
 
 <!--
 **norazayn01-alt/norazayn01-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
