@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/norazayn01-alt)
+
 <h1 align="center">Hi 👋, I'm Norazayn</h1>
 <h3 align="center">Frontend & Web Developer</h3>
 
