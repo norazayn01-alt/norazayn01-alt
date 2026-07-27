@@ -39,11 +39,24 @@
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://github.com/norazayn01-alt">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <!-- GitHub -->
+  <a href="https://github.com/norazayn01-alt" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram/im__shion">
-    <img src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white" />
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/shahzoda-kidirova" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/@shahzoda_kidirova" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/im__shion" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
