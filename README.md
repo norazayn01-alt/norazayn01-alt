@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Shahzoda%20Kidirova&fontSize=42&fontColor=ffffff&animation=fadeIn&subtext=Frontend%20Developer&subtextFontSize=20&subtextColor=aaaaaa" width="100%" alt="Header Banner" />
-</p>
+https://github.com/norazayn01-alt/gifshion
 <h1 align="center">Hi 👋, I'm Norazayn</h1>
 <h3 align="center">Frontend & Web Developer</h3>
 
