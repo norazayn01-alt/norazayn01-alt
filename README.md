@@ -1,4 +1,4 @@
-https://github.com/norazayn01-alt/gifshion
+![](https://raw.githubusercontent.com/norazayn01-alt/gifshion/main/gifshion.gif)
 <h1 align="center">Hi 👋, I'm Norazayn</h1>
 <h3 align="center">Frontend & Web Developer</h3>
 
