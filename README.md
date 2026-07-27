@@ -1,5 +1,5 @@
-![](https://raw.githubusercontent.com/norazayn01-alt/gifshion/main/gifshion.gif)
-<h1 align="center">Hi 👋, I'm Norazayn</h1>
+ ![](https://github.com/norazayn01-alt/gifshion/blob/main/Blue%20and%20Black%20Modern%20Quantum%20Networking%20Presentation-2.gif)
+<h1 align="center">Hi 👋, I'm Norazayn</h1
 <h3 align="center">Frontend & Web Developer</h3>
 
 <p align="center">
