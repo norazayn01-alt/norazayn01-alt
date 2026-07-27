@@ -51,7 +51,11 @@
   </a>
 </p>
 
+### ☕ Support / Qo'llab-quvvatlash
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Card-8600%201234%205678%209012-0052CC?style=for-the-badge&logo=visa&logoColor=white" alt="4916990313429760" />
+</p>
 
 <!--
 **norazayn01-alt/norazayn01-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
