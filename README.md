@@ -54,7 +54,7 @@
 ### ☕ Support / Qo'llab-quvvatlash
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Card-8600%201234%205678%209012-0052CC?style=for-the-badge&logo=visa&logoColor=white" alt="4916990313429760" />
+  <img src="https://img.shields.io/badge/Card-8600%201234%205678%209012-0052CC?style=for-the-badge&logo=uzum&logoColor=white" alt="4916990313429760" />
 </p>
 
 <!--
