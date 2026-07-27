@@ -7,17 +7,15 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 📊 GitHub Stats:
-
-<!-- Umumiy statistika kartochkasi -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=norazayn01-alt&show_icons=true&theme=radium" alt="GitHub Stats" />
 </a>
 
 <br/><br/>
 
 <!-- Streak (aktivlik kunlari) kartochkasi -->
-<a href="https://github.com/norazayn01-alt/github-readme-streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radium" alt="GitHub Streak" />
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com/?user=norazayn01-alt&theme=radium" alt="GitHub Streak" />
 </a>
 
 <!--
