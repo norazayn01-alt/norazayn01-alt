@@ -1,4 +1,6 @@
-![](https://github.com/norazayn01-alt/gifshion/blob/main/gif_shahzodakidirova.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/norazayn01-alt/gifshion/main/gif_shahzodakidirova.gif" width="100%" alt="Header GIF" />
+</p>
 
 ### Languages
 
