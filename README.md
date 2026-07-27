@@ -53,12 +53,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<br/>
-
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=norazayn01-alt&theme=radium" alt="GitHub Streak" />
-</p>
 
 <!--
 **norazayn01-alt/norazayn01-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
