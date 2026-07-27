@@ -42,6 +42,9 @@
   <a href="https://github.com/norazayn01-alt">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://instagram/im__shion">
+    <img src="https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 <!--
