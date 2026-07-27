@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!-- Streak (aktivlik kunlari) kartochkasi -->
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+<a href="https://github.com/norazayn01-alt/github-readme-streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radium" alt="GitHub Streak" />
 </a>
 
