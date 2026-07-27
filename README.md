@@ -1,4 +1,4 @@
-![](https://github.com/norazayn01-alt/gifshion/blob/main/gif-shahzodakidirova.gif)
+![](https://github.com/norazayn01-alt/gifshion/blob/main/gif_shahzodakidirova.gif)
 
 ### Languages
 
