@@ -24,9 +24,7 @@
 [![](https://img.shields.io/badge/-✈️%20Telegram-000)](https://t.me/shahzoda_kidirova)
 [![](https://img.shields.io/badge/-📸%20Instagram-000)](https://instagram.com/im___shion)
 
-### ☕ Support
 
-[![](https://img.shields.io/badge/-💳%20Card:%204916%209903%201342%209760-000)](#)
 
 
 
